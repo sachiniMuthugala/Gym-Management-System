@@ -1,0 +1,4 @@
+DefaultMember{ Membership Number=1, Name='sachini', Membership Start Date='5/5/2020', Member Type='Default'}
+StudentMember{ Membership Number=2, Name='udara muthugala', Membership Start Date='2/2/2020', School='IIT', Member Type='Student'}
+Over60Member{ membershipNumber=3, name='nisal manjitha', membershipStartDate='8/8/2019'age=69, memberType='Over60'}
+
